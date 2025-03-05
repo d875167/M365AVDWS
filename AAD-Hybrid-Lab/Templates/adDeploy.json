@@ -124,8 +124,7 @@
           "osDisk": {
             "caching": "ReadWrite",
             "createOption": "FromImage"
-          },
-          "hyperVGeneration": "V2"
+          }
         },
         "networkProfile": {
           "networkInterfaces": [
